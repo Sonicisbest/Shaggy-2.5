@@ -3,7 +3,6 @@
 		"speed": 2.5,
 		"player1": "bf",
 		"player2": "sshaggy",
-		"player3": "gf",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -1243,6 +1242,6 @@
 		"mania": 1,
 		"arrowSkin": null,
 		"needsVoices": true,
-		"song": "Kaio-ken"
+		"song": "Dadbattle"
 	}
 }
