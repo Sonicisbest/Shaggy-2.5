@@ -1237,7 +1237,7 @@
 			}
 		],
 		"splashSkin": null,
-		"validScore": false,
+		"validScore": true,
 		"bpm": 200,
 		"mania": 1,
 		"arrowSkin": null,
